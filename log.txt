@@ -1,6 +1,3 @@
 WARNING: Command group 'vm' is experimental and under development. Reference and support levels: https://aka.ms/CLI_refstatus
-ERROR: invalid resource ID: [
 WARNING: Command group 'vm' is experimental and under development. Reference and support levels: https://aka.ms/CLI_refstatus
-ERROR: (ResourceNotFound) The Resource 'Microsoft.Compute/virtualMachines/new-vm,' under resource group 'RG-IND-ABHAY' was not found. For more details please go to https://aka.ms/ARMResourceNotFoundFix
 WARNING: Command group 'vm' is experimental and under development. Reference and support levels: https://aka.ms/CLI_refstatus
-ERROR: invalid resource ID: ]

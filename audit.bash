@@ -7,6 +7,10 @@ az login --service-principal --username $APP_ID --password $PASSWORD --tenant $T
 #List all VM
 az vm list --query '[*].id' > vmlist.txt
 
+#Cleanup
+sed -i '1,1d' vmlist.txt
+sed -i '$ d' vmlist.txt
+sed -i 's/,*$//' vmlist.txt
 
 # Check if the data disk are encrypted
 (
