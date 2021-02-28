@@ -1,16 +1,16 @@
-"/subscriptions/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/resourceGroups/RG-IND-ABHAY/providers/Microsoft.Compute/virtualMachines/new-vm"
+"/subscriptions/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/resourceGroups/RG-IND-xxxxx/providers/Microsoft.Compute/virtualMachines/new-vm"
 Status                  Message
 ----------------------  -------------------------------------
 Provisioning succeeded  Encryption succeeded for data volumes
 
 
-"/subscriptions/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/resourceGroups/RG-IND-ABHAY/providers/Microsoft.Compute/virtualMachines/test-vm"
+"/subscriptions/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/resourceGroups/RG-IND-xxxxx/providers/Microsoft.Compute/virtualMachines/test-vm"
 Status                  Message
 ----------------------  -------------------------------------
 Provisioning succeeded  Encryption succeeded for data volumes
 
 
-"/subscriptions/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/resourceGroups/RG-IND-ABHAY/providers/Microsoft.Compute/virtualMachines/text-to-date"
+"/subscriptions/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/resourceGroups/RG-IND-xxxxx/providers/Microsoft.Compute/virtualMachines/text-to-date"
 Status                  Message
 ----------------------  -------------------------------------
 Provisioning succeeded  Encryption succeeded for data volumes
