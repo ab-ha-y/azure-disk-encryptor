@@ -5,6 +5,9 @@ Provisioning succeeded  Encryption succeeded for data volumes
 
 
 "/subscriptions/3c09379a-b76b-44fe-ba17-753030bebb28/resourceGroups/RG-IND-ABHAY/providers/Microsoft.Compute/virtualMachines/test-vm"
+Status                  Message
+----------------------  -------------------------------------
+Provisioning succeeded  Encryption succeeded for data volumes
 
 
 "/subscriptions/3c09379a-b76b-44fe-ba17-753030bebb28/resourceGroups/RG-IND-ABHAY/providers/Microsoft.Compute/virtualMachines/text-to-date"
