@@ -23,3 +23,12 @@ do
 done < vmlist.txt
 )>audit.txt
 
+#Loop to Encrypt data disk if not encrypted already
+if grep -F "Azure Disk Encryption is not enabled" log.txt  #Azure Disk Encryption is not enabled
+then
+    echo "Running Remediation..."
+    ./remediate.bash
+else
+    echo "All Data disks already encrypted...!"
+    exit 0
+fi
